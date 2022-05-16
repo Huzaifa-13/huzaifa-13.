@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+           background-color:rgb(96, 198, 232); 
+        }
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Huzaifa's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-noodles">Noodles</a></li>
+        </ol>
+        
+        <h2 id="recipe-noodles">Noodles</h2>
+        
+        <ul>
+            <li>Time: 10 minutes </li>
+            <li>Serves: 2 members</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Noodles</td>
+                    <td>1 pack</td>
+                </tr>
+                
+                <tr>
+                    <td>Red chilli</td>
+                    <td> <sup>1</sup>/<sub>2</sub> spoon</td>
+                </tr>
+                
+                <tr>
+                    <td>Salt</td>
+                    <td>1 spoon</td>
+                </tr>
+                
+                <tr>
+                    <td>Tomatoes</td>
+                    <td>2 units</td>
+                </tr>
+                
+                <tr>
+                    <td>Potato</td>
+                    <td>1 Unit</td>
+                </tr>
+                
+                <tr>
+                    <td>Tomato sauce</td>
+                    <td>As per needed</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Take a whole pack of noodles.<br>
+        <b>Step 2:</b> Drop the noodles in 3 glass of water in a cooker.<br>
+        <b>Step 3:</b>Take a pan place it on stove.<br>
+        <b>Step 4:</b>Put some oil on the stove.<br>
+        <b>Step 5:</b>Increase the flame.<br>
+        <b>Step 6:</b>Cut the tomatoes and place it over the pan.<br>
+        <b>Step 7:</b>Let it fry for 2 miniutes.<br>
+        <b>Step 8:</b>Cut the potatoes.<br>
+        <b>Step 9:</b>Fry it for 2 miniutes.<br>
+        <b>Step 10:</b>Now cook the noodles till the cooker whistled for 1 time and then soak the water in the cooker.<br>
+        <b>Step 11:</b>Now mix the masala along with oil (tomatoes & potatoes)<br>
+        <b>Step 12:</b>Now cook it for  miniutes.<br>
+        <b>Step 13:</b>Your noodles are ready serve it with tomato sauce eat it.
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Misua_noodles.jpg"alt="Noodles image" width="300">
+            
+        </p>
+        
+    <p><em>Source: <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX1tDV2Nz3AhVQmVYBHXRIDPkQwqsBegQIAhAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkOTuq5cOcg4&usg=AOvVaw3ZoJvFfZ4ym1U3qxWuCpfP">Noodles recipe video</a></em></p>
+    
+    </body>
+</html>
